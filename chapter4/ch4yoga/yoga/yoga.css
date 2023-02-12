@@ -1,0 +1,31 @@
+body {
+    background-color: #fbfaf8; /* bgc#fbfaf8 */
+    color: rgb(56, 56, 56); /* c#555 */
+  }
+  header {
+    background-color: #b2c9ab; /* bgc#b2c9ab */
+    color: rgb(56, 56, 56) /* c#fff*/
+  }
+  nav {
+    background-color: #fbfaf8; /* bgc#bbdefb */
+  }
+  h1 {
+      margin-bottom: 0;/* mb0 */
+  }
+  h2 {
+    background-color: #d3e0cf;
+    color: rgb(56, 56, 56) /* c#1976d2 */
+  }
+  dt {
+    color: rgb(56, 56, 56); /* c#002171 */
+  }
+  .resort {
+    color: rgb(56, 56, 56); /* c#1976d2 */
+  }
+
+div {
+    background-color: #b2c9ab;
+}
+.feature {
+    color: #000;
+}

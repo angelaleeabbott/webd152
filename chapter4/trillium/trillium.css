@@ -1,0 +1,25 @@
+body {
+    background-color: #FFF;
+    color: #191970;
+}
+h1 {
+    background-color: #191970;
+    color: #FFF;
+    margin-bottom: 0;
+}
+h2 {
+    color: #6a6aa7;
+}
+footer {
+    color: #666;
+}
+.companyname {
+    /* color: #6a6aa7;   */
+    color: #f00;
+}
+#feature {
+    color: #f0c;
+}
+#new {
+    color: #f0c;
+}
